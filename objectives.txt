@@ -1,0 +1,6 @@
+start a git repository locally
+make some directories and files
+stage (add) 
+commit (with messages)
+log
+attach a local git repo to github
